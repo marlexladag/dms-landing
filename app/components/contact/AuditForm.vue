@@ -3,7 +3,7 @@
     <div class="mb-8">
       <h1 class="text-3xl md:text-4xl font-bold text-slate-900 dark:text-white mb-3">Optimize Your Dealership</h1>
       <p class="text-slate-500 dark:text-slate-400 text-lg">
-        Get a free audit of your current beverage logistics. See how our NFC &amp; IoT solutions can digitize your fleet and save you time.
+        Get a free audit of your current beverage logistics. See how our NFC-powered platform can digitize your fleet and save you time.
       </p>
     </div>
 

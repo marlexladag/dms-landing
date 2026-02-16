@@ -2,13 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-.ecosystem-node {
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.ecosystem-node:hover {
-  transform: scale(1.05);
-  box-shadow: 0 10px 30px -5px rgba(254, 119, 2, 0.2);
+.ecosystem-line {
+  background: linear-gradient(to bottom, rgba(254, 119, 2, 0.6), rgba(254, 119, 2, 0.1));
 }
 
 .pulse-ring {

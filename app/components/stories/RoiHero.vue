@@ -18,7 +18,7 @@
       </h1>
 
       <p class="text-lg md:text-xl text-slate-500 dark:text-slate-400 max-w-2xl mx-auto mb-10 leading-relaxed">
-        Every unaccounted bottles and lost case impacts your bottom line. iDeal DMS uses industrial IoT and NFC precision to close the loop on inventory loss.
+        Every unaccounted bottle and lost case impacts your bottom line. iDeal DMS uses NFC tagging and an integrated web and mobile platform to close the loop on inventory loss.
       </p>
 
       <div class="flex flex-col sm:flex-row justify-center gap-4">

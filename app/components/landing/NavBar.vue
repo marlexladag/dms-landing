@@ -8,6 +8,7 @@
         </NuxtLink>
         <!-- Desktop Menu -->
         <div class="hidden md:flex items-center space-x-8">
+          <NuxtLink to="/about" class="text-slate-600 dark:text-slate-300 hover:text-primary dark:hover:text-primary font-medium transition-colors">About</NuxtLink>
           <NuxtLink to="/platform" class="text-slate-600 dark:text-slate-300 hover:text-primary dark:hover:text-primary font-medium transition-colors">Platform</NuxtLink>
           <NuxtLink to="/success-stories" class="text-slate-600 dark:text-slate-300 hover:text-primary dark:hover:text-primary font-medium transition-colors">Success Stories</NuxtLink>
           <NuxtLink to="/contact" class="text-slate-600 dark:text-slate-300 hover:text-primary dark:hover:text-primary font-medium transition-colors">Contact</NuxtLink>
@@ -28,6 +29,7 @@
       </div>
       <!-- Mobile Menu -->
       <div v-if="mobileMenuOpen" class="md:hidden pb-4 space-y-3">
+        <NuxtLink to="/about" class="block text-slate-600 dark:text-slate-300 hover:text-primary font-medium transition-colors py-2">About</NuxtLink>
         <NuxtLink to="/platform" class="block text-slate-600 dark:text-slate-300 hover:text-primary font-medium transition-colors py-2">Platform</NuxtLink>
         <a href="#" class="block text-slate-600 dark:text-slate-300 hover:text-primary font-medium transition-colors py-2">Hardware</a>
         <NuxtLink to="/success-stories" class="block text-slate-600 dark:text-slate-300 hover:text-primary font-medium transition-colors py-2">Success Stories</NuxtLink>

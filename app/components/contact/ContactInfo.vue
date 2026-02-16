@@ -10,9 +10,9 @@
           <ShieldCheckIcon class="w-6 h-6 text-accent" />
         </div>
 
-        <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-2">Trusted by Industry Leaders</h3>
+        <h3 class="text-xl font-bold text-slate-900 dark:text-white mb-2">Built for the Industry</h3>
         <p class="text-slate-600 dark:text-slate-300 text-sm mb-8 leading-relaxed">
-          Join over 500+ dealerships utilizing our industrial-grade IoT platform to track inventory, manage fleet movement, and secure assets in real-time.
+          Discover how our integrated web and mobile platform helps dealerships track inventory, manage fleet movement, and secure assets in real-time.
         </p>
 
         <div class="border-t border-primary/10 dark:border-primary/20 pt-8 mt-4">

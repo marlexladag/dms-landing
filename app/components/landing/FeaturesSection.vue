@@ -14,8 +14,8 @@
             <li class="flex items-start gap-3">
               <SignalIcon class="w-6 h-6 text-primary mt-1 shrink-0" />
               <div>
-                <h4 class="font-bold text-slate-900 dark:text-white">NFC &amp; IoT Native</h4>
-                <p class="text-slate-600 dark:text-slate-400 text-sm">Every asset is smart-tagged. Scan with a tap, track automatically.</p>
+                <h4 class="font-bold text-slate-900 dark:text-white">NFC-Powered Tagging</h4>
+                <p class="text-slate-600 dark:text-slate-400 text-sm">Every outlet is NFC-tagged. Scan with a tap, track automatically.</p>
               </div>
             </li>
             <li class="flex items-start gap-3">
