@@ -31,11 +31,9 @@
       <div v-if="mobileMenuOpen" class="md:hidden pb-4 space-y-3">
         <NuxtLink to="/about" class="block text-slate-600 dark:text-slate-300 hover:text-primary font-medium transition-colors py-2">About</NuxtLink>
         <NuxtLink to="/platform" class="block text-slate-600 dark:text-slate-300 hover:text-primary font-medium transition-colors py-2">Platform</NuxtLink>
-        <a href="#" class="block text-slate-600 dark:text-slate-300 hover:text-primary font-medium transition-colors py-2">Hardware</a>
         <NuxtLink to="/success-stories" class="block text-slate-600 dark:text-slate-300 hover:text-primary font-medium transition-colors py-2">Success Stories</NuxtLink>
         <NuxtLink to="/contact" class="block text-slate-600 dark:text-slate-300 hover:text-primary font-medium transition-colors py-2">Contact</NuxtLink>
         <div class="pt-3 border-t border-slate-200 dark:border-white/10 flex flex-col gap-3">
-          <a href="#" class="text-slate-900 dark:text-white font-semibold hover:text-primary transition-colors text-sm">Login</a>
           <a href="#" class="bg-accent hover:bg-accent-dark text-white font-bold px-6 py-2.5 rounded-lg shadow-lg shadow-accent/20 text-sm tracking-wide text-center">BOOK A DEMO</a>
         </div>
       </div>
